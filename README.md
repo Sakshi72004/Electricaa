@@ -21,3 +21,4 @@ It represents an electricity service company offering residential, commercial, i
 - **Google Maps Embed API** – To display the company location.
 
 
+🔗 You can deploy this project easily using:- https://sakshi72004.github.io/Electricaa/Sakshi/
